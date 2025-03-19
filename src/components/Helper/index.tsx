@@ -1,5 +1,3 @@
-import { Modal } from "../Modal";
-
 export function Helper() {
   return (
     <>
